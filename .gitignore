@@ -1,0 +1,18 @@
+# secrets and local state, never commit
+.env
+.env.*
+!.env.example
+*.token
+
+# python
+.venv/
+__pycache__/
+*.py[cod]
+
+# editor / os
+.DS_Store
+~$*
+
+# Word lock and temp files
+~$*
+*.tmp

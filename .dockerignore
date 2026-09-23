@@ -1,0 +1,12 @@
+.git
+.github
+docs
+deploy
+HANDOVER.md
+README.md
+.env
+.env.*
+__pycache__
+*.pyc
+.venv
+venv
